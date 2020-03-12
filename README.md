@@ -1,2 +1,2 @@
 # laraveltest
-練習
+我的laravel練習
